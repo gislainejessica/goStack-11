@@ -10,3 +10,5 @@ Tudo o que foi feito no gostack 11: Desafios, Blogs e Conteúdo produzido
 
 ### Passo x: Publicar aprendizado da semana (Linkedin e Youtube)
 - [ ] [Blog da semana]()
+- [ ] [Stories Linkedin]()
+- [ ] [Video sobre um assunto da semana]()
