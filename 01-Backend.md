@@ -1,5 +1,5 @@
 
-### Conceitos iniciais sobre nodejs e backend
+# Conceitos iniciais sobre nodejs e backend
 
 - NPM: Gerenciadores de pacotes
   - instala ferramenta de terceiros
@@ -30,3 +30,15 @@ Frameworks:
 - Adonisjs
 - NestJs
   
+## Api REST
+- Requisição 
+- Resposta
+- Estrutura de dados
+- Metodos HTTP (get, post, put, delete)
+
+*Beneficios:* 
+- Multiplos clientes
+
+*http codes*
+- Define o satus da requisição
+
