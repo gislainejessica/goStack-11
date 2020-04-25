@@ -1,32 +1,32 @@
 
 # Conceitos iniciais sobre nodejs e backend
 
-- NPM: Gerenciadores de pacotes
-  - instala ferramenta de terceiros
-  - fornecer aplicações publica, publicar alguma biblioteca
-  - Yarn: Mais rapido e avançado
+### NPM: Gerenciadores de pacotes
+  - Instalar ferramenta de terceiros
+  - Fornecer aplicações ao público, publicar alguma biblioteca
+  - Yarn: Mais rápido e avançado
   
-- NodeJs: Permite o uso de javascript no backend 
-  - ouve eventos atraaves de rotas
+### NodeJs: Permite o uso de javascript no backend 
+  - Ouve eventos atraves de rotas
   - Plataforma para desenvolver backend
-  - v8 motor que interpreta o javascript
+  - V8 motor que interpretar o javascript
 
-- Backend: é tudo aquilo que o usuário não vê (Regra de negocio, pagamento, nota fiscal, banco de dados)
+### Backend: é tudo aquilo que o usuário não vê (Regra de negócio, pagamento, nota fiscal, banco de dados,...)
 
 
-Node: Caracteristicas
-- event loop arquitetura baseada em eventos
-- call stack pilha de eventos que o node processa em loop eterno
-- single threads
-- background thread
-- C++ utiliza utras therads para otimização
-- non-bloquin i/o input e output não bloqueante (retorno em partes)
+### Caracteristicas do NodeJs
+- Event loop: arquitetura baseada em eventos
+- Call stack: pilha de eventos onde o NodeJs processa em loop eterno
+- Single thread
+- Background thread
+- C++ utiliza outras therads para otimização
+- Non-blocking i/o: input e output não bloqueante (Retorno em partes)
 
-Frameworks: <kbd>`#240A3C` </kbd>
-- express
-  - sem opnião: estrutura aberta
-  - micro framework
-  - micro-serviços
+### Frameworks: <kbd>`#240A3C` </kbd>
+- Express
+  - Sem opnião: estrutura aberta
+  - Micro-framework
+  - Micro-serviços
 - Adonisjs
 - NestJs
   
@@ -36,9 +36,9 @@ Frameworks: <kbd>`#240A3C` </kbd>
 - Estrutura de dados
 - Metodos HTTP (get, post, put, delete)
 
-*Beneficios:* 
+### Beneficios
 - Multiplos clientes
 
-*http codes*
+### HTTP codes
 - Define o satus da requisição
 
