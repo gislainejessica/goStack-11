@@ -9,33 +9,33 @@ Tudo o que foi feito no gostack 11: Desafios, Blogs e Conteúdo produzido
 ### Passo 2: Preparar ambiente
 - [x] [Ambiente de desenvolvimento](https://github.com/gislainejessica/BootCamp-11/blob/master/ambiente-dev.md)
 
-### Intro: Publicar aprendizado da semana (Linkedin e Youtube)
+### Fixando conteúdo: Publicar aprendizado da semana (Linkedin e Youtube)
 - [ ] Ajudar a responder duvidas no chat da rocketseat
 - [ ] [Blog da semana]()
 - [ ] [Stories Linkedin]()
 - [ ] [Video sobre um assunto da semana]()
 - [ ] [Video curto com alguma dica]()
 
----- 
 ## Nível 1
 ### Passo 3: Primeira aplicação backend
-- [ ] [Nvel 1: Backend](https://github.com/gislainejessica/BootCamp-11/blob/master/backend-first.md)
+- [ ] [Backend](https://github.com/gislainejessica/BootCamp-11/blob/master/backend-first.md)
 
 ### Passo 4: FrontEnd
-- [ ] [Ambiente de desenvolvimento]()
+- [ ] [Frontend]()
 
 ### Passo 5: Mobile
-- [ ] [Ambiente de desenvolvimento]()
+- [ ] [Mobile]()
 
 ### Passo 6: Typescript
-- [ ] [Ambiente de desenvolvimento]()
+- [ ] [Typescript]()
 
 
-### Nível 1: Publicar aprendizado da semana (Linkedin e Youtube)
+### Fixando conteúdo: Publicar aprendizado da semana (Linkedin e Youtube)
 - [ ] Ajudar a responder duvidas no chat da rocketseat
 - [ ] [Blog da semana]()
 - [ ] [Stories Linkedin]()
 - [ ] [Video sobre um assunto da semana]()
 - [ ] [Video curto com alguma dica]()
+
 
 ## Nível 2
