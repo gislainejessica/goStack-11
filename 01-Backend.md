@@ -42,3 +42,6 @@
 ### HTTP codes
 - Define o satus da requisição
 
+----
+
+
