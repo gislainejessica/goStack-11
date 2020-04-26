@@ -1,8 +1,9 @@
 ## Criando o primeiro projeto em NodeJs
-### **Comandos usados durante o projeto**
-- `mkdir nomedapasta`
-- `yarn init -y`
-- `code .` 
+
+- **Comandos usados durante o projeto**
+  - `mkdir nomedapasta`
+  - `yarn init -y`
+  - `code .` 
 
 <kbd>1</kbd> Criar uma pasta `src` para colocar todos os arquivos do projeto (Código fonte)
 
@@ -43,3 +44,11 @@ Nesse caso temos que rodar o seguinte comando.
   },
 ```
 - Add emojis no linux <kbd>shift</kbd> + <kbd>ctrl</kbd> + <kbd>E</kbd>
+
+### HTTP
+- [x] **GET**: Buscar informação do backend
+- [x] **POST**: Criar informação no backend
+- [x] **PUT/PATCH**: Alterar informação no backend: Patch um parte especifica. Put todos os dados de um recusos
+- [x] **DELETE**: Deletar uma informação no backend
+
+Recursos (rotas e métodos)
