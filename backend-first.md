@@ -56,3 +56,15 @@ Nesse caso temos que rodar o seguinte comando.
 ### Insomnia
 - (Dracula Theme Insomnia) (https://draculatheme.com/insomnia/)
 
+#### Tipos de Parametros
+Usados para passar informções para o backend (formas que o frontend tem para se comunicar com o backend)
+- [ ] **Query**: filtro e paginação 
+  (localhost/rota?title=nome&subtitle=nome2) : `req.query para acessar`
+- [ ] **Route**: atualizar recursos ou deletar
+  (localhost/rota/2) `req.params para acessar`
+- [ ] **Request Body**: conteudo na hora de criar ou atualizar (json)
+  ({"projeto" : "Mama Mia"}) `req.body para acessar`
+  
+ Express não sabe de cara trabalhar com json então temos que add um middleware: antes das rotas
+ `app.use(express.json())`
+
