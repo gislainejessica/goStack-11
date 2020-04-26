@@ -51,4 +51,8 @@ Nesse caso temos que rodar o seguinte comando.
 - [x] **PUT/PATCH**: Alterar informação no backend: Patch um parte especifica. Put todos os dados de um recusos
 - [x] **DELETE**: Deletar uma informação no backend
 
-Recursos (rotas e métodos)
+- Recursos (Rotas + Métodos)
+
+### Insomnia
+- (Dracula Theme Insomnia) (https://draculatheme.com/insomnia/)
+
