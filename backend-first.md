@@ -67,4 +67,14 @@ Usados para passar informções para o backend (formas que o frontend tem para s
   
  Express não sabe de cara trabalhar com json então temos que add um middleware: antes das rotas
  `app.use(express.json())`
+ 
+ **UUIDv4** criar localmente id aleatórias
+ 
+ #### Middlewares
+ - [x] Interceptador de requisições
+      - Interromper totalemnte a requisição
+      - Alterar dados da requisição
+ - [x] Uso
+    - Logs
+    - Autenticação
 
