@@ -18,13 +18,13 @@ Tudo o que foi feito no gostack 11: Desafios, Blogs e Conteúdo produzido
 
 ## Nível 1
 ### Passo 3: Primeira aplicação backend
-- [ ] [Backend](https://github.com/gislainejessica/BootCamp-11/blob/master/backend-first.md)
+- [x] [Backend](https://github.com/gislainejessica/BootCamp-11/blob/master/backend-first.md)
 
 ### Passo 4: FrontEnd
-- [ ] [Frontend]()
+- [ ] [Frontend](https://github.com/gislainejessica/BootCamp-11/blob/master/frontend-first.md)
 
 ### Passo 5: Mobile
-- [ ] [Mobile]()
+- [ ] [Mobile](https://github.com/gislainejessica/BootCamp-11/blob/master/mobile-first.md)
 
 ### Passo 6: Typescript
 - [ ] [Typescript]()
