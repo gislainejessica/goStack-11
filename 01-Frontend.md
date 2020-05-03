@@ -26,4 +26,8 @@
 
 ## Babel / Webpack
 - [x] O browser não entende todo esse código, e agora? (BABEL: coverte o codigo de forma que o brosewr entenda)
-- [x] Webpack pega todo codigo escrito e gera um arquivo unico que vai ser 
+- [x] Webpack:
+- Criação do bundle; pega todo codigo escrito e gera um arquivo unico que vai ser consumido
+- Live reload: webpack dev server 
+- Ensina o Javascript importa css, imagens,.. (Loaders)
+
