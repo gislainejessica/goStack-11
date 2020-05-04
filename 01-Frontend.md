@@ -31,3 +31,11 @@
 - Live reload: webpack dev server 
 - Ensina o Javascript importa css, imagens,.. (Loaders)
 
+## Conceito de Componentização
+- Separar o codigo em varios arquivos que podem ser reutilizados em diferentes partes do projet
+
+## Conceito de Propriedade
+- Informação que pode ser passada de um compoente pai para um componente filho
+
+## Conceito de Estado e imutabilidade
+- Guardar informações sobre o componente, dados que poderão ser atualizados de tempos em tempos
