@@ -25,3 +25,59 @@ ebpack-cli`
  ```
  - [x] Add `yarn add @babel/cli` o babel-cli permite usar o comando abaixo pra fazer a conversão
  `yarn babel src/index.js --out-file public/bundle.js`
+ 
+ **Webpack**
+ Automatiza o processo de intendificar o arquivo que precisa ser processado e ativa o loader para cada caso.
+ - `yarn add babel-loader`
+ 
+ 6) Criar o arquivo `webpack.config.js`
+
+```js
+  const path = require('path')
+
+  module.exports ={
+    entry: path.resolve(__dirname, 'src', 'index.js'),
+    output:{
+      path: path.resolve(__dirname, 'public'),
+      filename: 'bundle.js'
+    },
+    devServer: {
+      contentBase: path.resolve(__dirname, 'public'),
+    },
+    module: {
+      rules: [
+        {
+          test: /\.js$/,
+          exclude: /node_modules/,
+          use: {
+            loader: 'babel-loader',
+          }
+        }
+      ]
+    }
+  }
+
+```
+
+Basicamente esse arquivo está definindo o arquivo de entrada, dizendo qual vai ser o arquivo que a saida vai ser salva e definindo as regras para cada caso e definindo quais loaders vão ser ativados para cada regra.
+- [x] Conversão: `yarn webpack --mode development  `
+
+---
+
+
+- `yarn add webpack-dev-server -D`
+
+- Adicionando a biblioteca acima add no webpack.config.js o seguinte trecho de código, 
+
+```js
+ devServer: {
+    contentBase: path.resolve(__dirname, 'public'),
+  },
+  
+ ```
+ 
+ Pra rodar o webpack que vai pegar as alterações de código e gerar o bundle.js toda vez que salvar um arquivo
+- [x] Conversão em modo reload: `yarn webpack-dev-server --mode development`
+
+
+
