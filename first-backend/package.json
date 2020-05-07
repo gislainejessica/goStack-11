@@ -4,10 +4,12 @@
   "main": "src/index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon"
+    "dev": "nodemon src/serverfirebase.js"
   },
   "dependencies": {
+    "@sendgrid/mail": "^7.1.0",
     "express": "^4.17.1",
+    "nodemailer": "^6.4.6",
     "uuidv4": "^6.0.7"
   },
   "devDependencies": {
