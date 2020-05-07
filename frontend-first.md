@@ -121,5 +121,7 @@ Dentro do `webpack.config.js` add:
   },
 
 ```
+**Para poder utilizar async await tem que adicioanr um plugin**
 
+`yarn add @babel/plugin-transform-runtime`
 
