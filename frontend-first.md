@@ -79,5 +79,28 @@ Basicamente esse arquivo está definindo o arquivo de entrada, dizendo qual vai 
  Pra rodar o webpack que vai pegar as alterações de código e gerar o bundle.js toda vez que salvar um arquivo
 - [x] Conversão em modo reload: `yarn webpack-dev-server --mode development`
 
+**Adicionando novos loaders para manipular style**
+`yarn add style-loader css-loader`
 
+Dentro do `webpack.config.js` add:
 
+```js
+....
+ module: {
+      rules: [
+      ....
+      {
+        test: /\.css$/,
+        exclude: /node_modules/,
+        use:[
+          {
+            loader: 'style-loader',
+          },
+          {
+            loader: 'css-loader',
+          }
+        ]
+      }]
+      
+.....
+```
