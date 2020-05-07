@@ -4,7 +4,8 @@
   "main": "src/index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/serverfirebase.js"
+    "firebase": "nodemon src/serverfirebase.js",
+    "dev": "nodemon src/index.js"
   },
   "dependencies": {
     "@sendgrid/mail": "^7.1.0",
