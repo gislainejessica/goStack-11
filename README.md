@@ -21,7 +21,7 @@ Tudo o que foi feito no gostack 11: Desafios, Blogs e Conteúdo produzido
 - [x] [Backend](https://github.com/gislainejessica/BootCamp-11/blob/master/backend-first.md)
 
 ### Passo 4: FrontEnd
-- [ ] [Frontend](https://github.com/gislainejessica/BootCamp-11/blob/master/frontend-first.md)
+- [x] [Frontend](https://github.com/gislainejessica/BootCamp-11/blob/master/frontend-first.md)
 
 ### Passo 5: Mobile
 - [ ] [Mobile](https://github.com/gislainejessica/BootCamp-11/blob/master/mobile-first.md)
