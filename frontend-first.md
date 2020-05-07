@@ -104,3 +104,22 @@ Dentro do `webpack.config.js` add:
       
 .....
 ```
+
+**Adcionando loaders para manipular arquivos**
+`yarn add file-loader`
+
+
+Dentro do `webpack.config.js` add:
+
+
+```
+  {
+    test: /\.*\.(gif|png|jpe?g)$/i,
+    use: {
+      loader: 'file-loader',
+    }
+  },
+
+```
+
+
