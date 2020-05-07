@@ -38,4 +38,6 @@
 - Informação que pode ser passada de um compoente pai para um componente filho
 
 ## Conceito de Estado e imutabilidade
+- [x] __Estado__: Usado quando se quer guarda um informação que posteriormente pode vir a ser manipulada pelo componente.
+- Não podemos usar o conceitos tradicional de armazenar as variaveis, porque o React não consegue entender quando deve renderizar, por isso usando o conceito de estado. Com isso temos disponiveil para ser renderizado a qualquer momento pela DOM.
 - Guardar informações sobre o componente, dados que poderão ser atualizados de tempos em tempos
