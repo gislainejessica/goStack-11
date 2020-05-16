@@ -79,5 +79,5 @@ app.delete('/projects/:id', (req, res) => {
 })
 
 app.listen(3333, () => {
-  console.log("🐕 Servidor rodando!")
+  console.log("🐕 Servidor rodando! 3333")
 })
