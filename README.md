@@ -27,7 +27,7 @@ Tudo o que foi feito no gostack 11: Desafios, Blogs e Conteúdo produzido
 - [x] [Mobile](https://github.com/gislainejessica/BootCamp-11/blob/master/mobile-first.md)
 
 ### Passo 6: Typescript
-- [ ] [Typescript]()
+- [ ] [Typescript](https://github.com/gislainejessica/BootCamp-11/blob/master/01-Typescript.md)
 
 
 ### Fixando conteúdo: Publicar aprendizado da semana (Linkedin e Youtube)
