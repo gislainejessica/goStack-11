@@ -19,7 +19,6 @@ export default function App() {
     })
     const project = response.data
     setProjects([...project, project])
-   // setProjects([...project, "project"])
   }
 
   return (
