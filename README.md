@@ -19,16 +19,19 @@ Tudo o que foi feito no gostack 11: Desafios, Blogs e Conteúdo produzido
 ## Nível 1
 ### Passo 3: Primeira aplicação backend
 - [x] [Backend](https://github.com/gislainejessica/BootCamp-11/blob/master/backend-first.md)
+- [x] [Desafio 1]()
 
 ### Passo 4: FrontEnd
 - [x] [Frontend](https://github.com/gislainejessica/BootCamp-11/blob/master/frontend-first.md)
+- [x] [Desafio 2]()
 
 ### Passo 5: Mobile
 - [x] [Mobile](https://github.com/gislainejessica/BootCamp-11/blob/master/mobile-first.md)
+- [x] [Desafio 3]()
 
 ### Passo 6: Typescript
-- [ ] [Typescript](https://github.com/gislainejessica/BootCamp-11/blob/master/01-Typescript.md)
-
+- [x] [Typescript](https://github.com/gislainejessica/BootCamp-11/blob/master/01-Typescript.md)
+xxxxxxxxxxxxxxxxxx Surpresa xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ### Fixando conteúdo: Publicar aprendizado da semana (Linkedin e Youtube)
 - [ ] Ajudar a responder duvidas no chat da rocketseat
@@ -39,5 +42,22 @@ Tudo o que foi feito no gostack 11: Desafios, Blogs e Conteúdo produzido
 
 
 ## Nível 2
+
+### Passo 7: Primeiro projeto com NodeJs
+- [x] [Estrutura e Padrães]()
+- [x] [Construindo app]()
+- [x] [Desafio 4]()
+
+### Passo 8: Primeiro projeto de backend
+- [x] [Banco de Dados]()
+- [x] [Cadastro do Usuario]()
+- [x] [Autenticação]()
+- [x] [Upload de Imagens]()
+- [x] [Tratando exeções]()
+- [x] [Desafio 5]()
+
+xxxxxxxxxxxxxxxxxx Surpresa xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
 ## Nível 3
 ## Nível 4
