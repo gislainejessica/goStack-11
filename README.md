@@ -33,7 +33,7 @@ Tudo o que foi feito no gostack 11: Desafios, Blogs e Conteúdo produzido
 - [x] [Typescript](https://github.com/gislainejessica/BootCamp-11/blob/master/01-Typescript.md)
 
 
-### xxxxxxxxxxxxxxxxxx Surpresa xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+--
 
 
 ### Fixando conteúdo: Publicar aprendizado da semana (Linkedin e Youtube)
@@ -51,6 +51,7 @@ Tudo o que foi feito no gostack 11: Desafios, Blogs e Conteúdo produzido
 - [ ] [Construindo app]()
 - [ ] [Desafio 4]()
 
+
 ### Passo 8: Primeiro projeto de backend
 - [ ] [Banco de Dados]()
 - [ ] [Cadastro do Usuario]()
@@ -59,9 +60,14 @@ Tudo o que foi feito no gostack 11: Desafios, Blogs e Conteúdo produzido
 - [ ] [Tratando exeções]()
 - [ ] [Desafio 5]()
 
-xxxxxxxxxxxxxxxxxx Surpresa xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+---
 
 
 ## Nível 3
 
 ## Nível 4
+
+## Nível 5
+
+## Nível 6
