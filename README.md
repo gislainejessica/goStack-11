@@ -1,5 +1,12 @@
-# BootCamp-11
-Tudo o que foi feito no gostack 11: Desafios, Blogs e Conteúdo produzido
+<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+
+<h3 align="center">
+  Treinamento prático usando tecnologias modernas e adequadas a cada problema
+</h3>
+
+<blockquote align="center">“O tempo que leva para realizar seus sonhos vai passar de qualquer forma”!</blockquote>
+
+Conteudo produzido no gostack 11: desafios, blogs e conteúdo, código...
 
 ## Nível 0
 ### Passo 1: Organização
