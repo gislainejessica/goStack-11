@@ -1,10 +1,11 @@
 import { Router } from 'express';
 import { startOfHour, parseISO, isEqual } from 'date-fns';
 import Appointment from '../models/Appointments';
+import AppointmentsRepository from '../repositories/AppointmentsRepository';
 
 const appointmentsRouter = Router();
 
-const appointments: Appointment[] = [];
+const appointmentsRepository = new AppointmentsRepository();
 
 appointmentsRouter.post('/', (request, resposte) => {
   const { provider, date } = request.body;
@@ -20,8 +21,7 @@ appointmentsRouter.post('/', (request, resposte) => {
       .status(400)
       .json({ message: 'this appontment is aready booked' });
   }
-  const appointment = new Appointment(provider, parsedDate);
-  appointments.push(appointment);
+  const appointment = appointmentsRepository.create(provider, parsedDate);
 
   return resposte.json(appointment);
 });
