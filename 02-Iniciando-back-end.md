@@ -9,3 +9,6 @@
 - [x] Container: instância de uma imagem
 - [x] Docker Registry (Docker Hub)
 - [x] Dockerfile: receita de uma imagem 
+
+- **DBeaver or Postbird**
+- **typeorm**
