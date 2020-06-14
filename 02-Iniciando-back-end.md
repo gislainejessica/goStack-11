@@ -12,3 +12,9 @@
 
 - **DBeaver or Postbird**
 - **typeorm**
+
+```terminal
+  yarn typeorm migration:create -n UserMigration
+  yarn typeorm migrations:run
+  yarn typeorm migrations:revert
+```
