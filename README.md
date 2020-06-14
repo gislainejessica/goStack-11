@@ -54,8 +54,8 @@ Conteudo produzido no gostack 11: desafios, blogs e conteúdo, código...
 ## Nível 2
 
 ### Passo 7: Primeiro projeto com NodeJs
-- [ ] [Estrutura e Padrães]()
-- [ ] [Construindo app]()
+- [x] [Estrutura e Padrães](https://github.com/gislainejessica/goStack-11/tree/master/first-node-type)
+- [ ] [Construindo app](https://github.com/gislainejessica/goStack-11/tree/master/first-node-type)
 - [ ] [Desafio 4]()
 
 
