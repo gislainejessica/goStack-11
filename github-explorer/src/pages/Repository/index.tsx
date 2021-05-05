@@ -34,7 +34,7 @@ interface Issue {
 }
 
 
-const Repository: React.FC = () => {
+const Repositories: React.FC = () => {
   const { params } = useRouteMatch<RepositoryParams>()
   const [repository, setRepository] = useState<Repository | null>(null)
   const [issues, setIssues] = useState<Issue[]>([])
@@ -114,4 +114,4 @@ const Repository: React.FC = () => {
   );
 }
 
-export default Repository;
+export default Repositories;

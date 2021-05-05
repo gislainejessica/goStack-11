@@ -4,8 +4,11 @@
   "port": 5432,
   "username": "postgres",
   "password": "docker",
-  "database": "gostack_gobarber",
-  "migrations":[
+  "database": "gostack",
+  "entities": [
+    "./src/models/*.ts"
+  ],
+  "migrations": [
     "./src/database/migrations/*.ts"
   ],
   "cli": {

@@ -21,3 +21,10 @@
 ```cmd
   yarn add react-icons
 ```
+
+
+## Api
+
+```cmd
+  yarn add axios
+```
