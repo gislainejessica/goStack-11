@@ -4,19 +4,19 @@ import Appointment from '../models/Appointments';
 import AppointmentRepository from '../repositories/AppointmentsRepository';
 /**
  * [x] Recebimento das informações
- * [/] Tratativa de erros e exweções
+ * [/] Tratativa de erros e exceções
  * [x] acesso ao repositório
  *
  * Dependence Infersion
  */
 
 interface Request {
-  provider: string;
+  provider_id: string;
   date: Date;
 }
 
 class CreateAppointmentService {
-  public async execute({ provider, date }: Request): Promise<Appointment> {
+  public async execute({ provider_id, date }: Request): Promise<Appointment> {
     const appointmentRepository = getCustomRepository(AppointmentRepository);
     const appointmentDate = startOfHour(date);
 
@@ -28,7 +28,7 @@ class CreateAppointmentService {
       throw Error('this appontment is aready booked');
     }
     const appointment = appointmentRepository.create({
-      provider,
+      provider_id,
       date: appointmentDate,
     });
 
